@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x3e4afB15ce77856974D81fa9CcB4f9Eb467B5304",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x3e4afb15ce77856974d81fa9ccb4f9eb467b5304",
+  "CONTRACT_ADDRESS": "0xdEf8Bca6cfDE98db80f9F28970BAF8c9bB6dbf25",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xdef8bca6cfde98db80f9f28970baf8c9bb6dbf25",
   "NETWORK": {
     "NAME": "rinkeby",
     "SYMBOL": "ETH",
     "ID": 4
   },
   "NFT_NAME": "Frontline Heroes NFTs",
-  "SYMBOL": "FHNFT",
+  "SYMBOL": "FHNFTs",
   "MAX_SUPPLY": 8000,
   "WEI_COST": 5000000000000000,
   "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/fhnfts",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/fht-nft-test",
   "SHOW_BACKGROUND": true
 }
